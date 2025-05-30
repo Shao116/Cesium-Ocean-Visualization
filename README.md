@@ -26,7 +26,6 @@
 
 **面向群体**：本指南适用于开发者、研究人员以及对海洋科学和数据可视化感兴趣的个人。通过VS Code和Live Server，你可以在本地环境中快速运行和测试此项目，无需额外的服务器配置。
 
----
 
 ### 英文版
 **Pacific Ocean Current Visualization Project Guide**
